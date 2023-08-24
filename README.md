@@ -2,6 +2,10 @@
 
 
 # Little Lavender Witch sticker pack
+App store download below
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/little-lavender-witch/id6463114763)
+
 ![icon.png](icon.png)
 
 ## Description
